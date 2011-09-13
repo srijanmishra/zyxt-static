@@ -111,7 +111,6 @@ form>ul>li {
 }
 blockquote {
     text-align: center;
-    text-transform: uppercase;
 }
 ol>li {
     list-style: decimal inside none;
